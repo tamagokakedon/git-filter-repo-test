@@ -1,4 +1,4 @@
-# git-filter-repo 動作検証レポート
+﻿# git-filter-repo 動作検証レポート
 
 ## 概要
 
@@ -434,3 +434,4 @@ git clone --single-branch --branch <branch> <repo> <verify-dir>
 - 文字列置換シナリオの書き換え後先頭 commit: `ae50334`
 
 このレポートは、`git-filter-repo` をチームで運用する際の叩き台として利用できます。
+

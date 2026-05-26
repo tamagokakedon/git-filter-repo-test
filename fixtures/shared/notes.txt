@@ -1,2 +1,3 @@
 verification baseline
 this file should remain after history rewrite
+updated alongside the removable file
